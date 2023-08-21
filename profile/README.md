@@ -1,5 +1,5 @@
 # Unite The Alliance, Draw The Future.
-Project Unison is the game server project, aiming to be 100% community-made alternative of Valve's Team Fortress 2 and Blizzard's Overwatch 2 by using the Team Fortress and Half-Life Universe.
+Project Unison is the community-made dedicated server project aiming to be better alternative of team-based speedy games, such as Team Fortress 2, Overwatch 2 and many more.
 
 <h3><a href="https://github.com/Project-Unison/Wiki/wiki/List-of-Servers">Play Now!</a></h3>
 
