@@ -11,6 +11,7 @@ Project Unison is the community-made dedicated server project aiming to be bette
 ## Quick Links
 * [News/Changelogs](https://github.com/Project-Unison/Changelogs-And-News/discussions)
 * [Documentation](https://github.com/Project-Unison/Wiki/wiki)
+* [Report Issue](https://github.com/Project-Unison/Issue-Tracker)
 
 ## Disclaimer
 Valve, the Valve logo, Steam, the Steam logo, Team Fortress, the Team Fortress logo are trademarks and/or registered trademarks of Valve Corporation in the U.S. and/or other countries. Blizzard Entertainment, the Blizzard Entertainment logo, Battle.net, the Battle.net logo, Overwatch, the Overwatch logo are trademarks and/or registered trademarks of Blizzard Entertainment in the U.S. and/or other countries.
