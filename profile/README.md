@@ -4,7 +4,7 @@ Project Unison Re:berte is the community-made dedicated server project aiming to
 <h3><a href="https://github.com/Project-Unison/Wiki/wiki/List-of-Servers">Play Now!</a></h3>
 
 ## Supported Game
-* Team Fortress 2 (Coming Soon!)
+* Team Fortress 2
 * Obsidian Conflict (Coming Soon!)
 
 ## Quick Links
