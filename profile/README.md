@@ -1,5 +1,5 @@
 # Unite The Alliance, Draw The Future.
-Project Unison Re:berte is the community-made dedicated server project aiming to be better alternative of PvP/PvE games.
+Project Unison is the community-made dedicated server project aiming to be better alternative of PvP/PvE games.
 
 <h3><a href="https://github.com/Project-Unison/Wiki/wiki/List-of-Servers">Play Now!</a></h3>
 
