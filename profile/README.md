@@ -4,7 +4,6 @@ Project Unison is the community-made dedicated server project aiming to be bette
 <h3><a href="https://github.com/Project-Unison/Wiki/wiki/List-of-Servers">Play Now!</a></h3>
 
 ## Supported Game
-* Team Fortress 2 (Active until December 18, 2023)
 * Team Fortress 2 Classic: Custom Weapons (Coming Soon!)
 * Obsidian Conflict (Coming Soon!)
 
